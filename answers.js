@@ -39,3 +39,8 @@ thom[0] = 'Gameboy';
 karolin[1] = 17;
 matt[2] = 'Gotham City';
 kristyn[2] = 'Brooklyn'
+//ninja turtles
+ninjaTurtles = ['Donatello', 'Leonardo', 'Raphael', 'Michaelangelo'];
+for (var i = 0; i < ninjaTurtles.length; i++) {
+  console.log(ninjaTurtles[i].toUpperCase());
+}
